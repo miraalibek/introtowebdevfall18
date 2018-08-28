@@ -1,8 +1,11 @@
 ## TICKET TO LEAVE
 
 At the end of each class period, before you leave:
+
 Post to Slack in the class channel.
+
 Begin message with "#TTL".
+
 Respond to 1 or both of the following:
 
 * List at least 1 thing you learned today in class.

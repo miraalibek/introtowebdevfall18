@@ -11,7 +11,7 @@
 
 *Tuesday + Thursday 2:30 - 4:20,  2 MetroTech Center Room 813*
 
-*Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)
+*Link to class Slack workspace: https://idmnyu.slack.com/ (Students will receive an invitation to this course's private channel.)*
 
 *To contact professor: on Slack @sarah, email srd280@nyu.edu*
 

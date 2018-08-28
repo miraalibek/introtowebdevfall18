@@ -52,6 +52,7 @@ Students will understand and utilize tools and technology, while adapting to con
 ### Student Learning Outcomes
 
 By the end of the course, students will be able to:
+
 1 - Design, build, and develop content for a professional-quality website.
 
 2 - Understand and implement the iterative process

@@ -20,7 +20,7 @@
 *Office hours are by appointment on Tuesdays or Thursdays before 12:20 or after 4:20. Please contact me at least 24 hours in advance to set up a time to meet.*
 
 ## A note about this syllabus
-This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
+This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
 
 ## Course Pre-requisites
 

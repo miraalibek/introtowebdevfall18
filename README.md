@@ -75,7 +75,7 @@ By the end of the course, students will be able to:
 * Github Account: github.com/join
 * Developer Tools for Chrome or Firefox
   * Firebug for Firefox, http://getfirebug.com or
-  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools http://discover-devtools.codeschool.com
+  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools 
 * HTML Text Editor (Atom, Sublime Text, Brackets.io, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
 * Web Server Space

@@ -10,7 +10,7 @@
 
 #### Sept 25 & 27
 
-#### Oct 2 & 4
+#### Oct 2 & 4: Oct 4 special session on accessibility with Claire Kearney-Volpe
 
 #### NO CLASS OCT 9
 

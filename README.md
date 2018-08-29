@@ -70,6 +70,17 @@ By the end of the course, students will be able to:
 * The Responsive Web (flexible media & media queries)
 * Javascript/Javascript Libraries
 
+### SOFTWARE REQUIREMENTS
+* Browser: Chrome or Firefox
+* Github Account: github.com/join
+* Developer Tools for Chrome or Firefox
+  * Firebug for Firefox, http://getfirebug.com or
+  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools http://discover-devtools.codeschool.com
+* HTML Text Editor (Atom, Sublime Text, Brackets.io, etc)
+* FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
+* Web Server Space
+	* I highly recommend that you get your own web server space from an internet service provider. One recommendation is https://www.siteground.com/
+
 
 ### Course Structure
 

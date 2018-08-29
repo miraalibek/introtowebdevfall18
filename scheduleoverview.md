@@ -4,11 +4,11 @@
 
 #### Sept 4 & 6: Hello World, Intro to HTML, Intro to UNIX/command line & Git/Github
 
-#### Sept 11 & 13: File paths/Directories, Intro to CSS
+#### Sept 11 & 13: File paths/Directories, More Github/Github Pages, Intro to CSS
 
-#### Sept 18 & 20: More CSS, Wireframing, Layout
+#### Sept 18 & 20: More CSS, Wireframing, Layout, Image Format, Google Fonts, Design Inspo
 
-#### Sept 25 & 27: CSS Transform/Transition/Animate, Media Queries and Responsive Design
+#### Sept 25 & 27: CSS Transform/Transition/Animate, Media Queries and Responsive Design, Project Moodboards
 
 #### Oct 2 & 4: Midterm Project Proposals, Oct 4 special session on accessibility with Claire Kearney-Volpe
 

@@ -96,11 +96,14 @@ I love having WiFi available and I think it is a valuable tool for use in the cl
 
 ## Grading
 
+NOTE: While you are expected to document and host your work on Github or another external server, links to assignments, projects, and documentation will be submitted and graded on NYU Classes. This will allow me a space to privately communicate any notes and point deductions connected to each student's assignment. It will also allow you to track your progress in the class. After midterm and final presentations, grades from the NYU Classes gradebook will be migrated to Albert.
+
 Grades will be determined according to the following breakdown:
 
 **Regular Assignments 25%**
 
 We will have weekly assignments that are relevant to material from the previous class. When it is assigned, each assignment will contain a breakdown of how many points it is worth and the grading criteria. Most assignments will include a Learning Log, where you will be asked to provide some assessment of your clarity on a topic after doing a tutorial. Please refer to the Learning Logs file in this repository for more instructions.
+
 
 **Mid-Term Project 20%**
 

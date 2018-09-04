@@ -14,6 +14,8 @@
   * What content do I think will help me accomplish my learning goals?
   
 * What is Web Development?
+
+* [Slides from today](https://docs.google.com/presentation/d/1sRazuPZElYGiqba27h_1Qe84bgsnclV5YZjQBtSV1ic/edit?usp=sharing)
   
 
 ### Homework: 

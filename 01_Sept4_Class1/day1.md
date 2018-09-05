@@ -22,7 +22,7 @@
 
 1. For Thursday: Design thinking. Each student will choose 1 movement, artist, or designer for a 2-3 min presentation to the class. Share a brief introduction to the movements, artists, or designers and at least 3 images for each. This presentation will count toward your class participation grade.
 
-2. Complete a Learning Log that will help you begin to learn the introductory concepts of HTML and CSS. Suggestions:
+2. Complete a Learning Log this week that will help you begin to learn the introductory concepts of HTML and CSS. Suggestions:
  * [W3 Schools](https://www.w3schools.com/html/)
  * [Codecademy](https://www.codecademy.com/learn/learn-html)
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML)

@@ -2,11 +2,11 @@
 
 *NOTE: Specific assignments and materials for each class session will be located in their own folder in this repository. This schedule is meant to serve as an overview of the course trajectory.*
 
-#### Sept 4 & 6: Hello World, Intro to HTML, Intro to UNIX/command line & Git/Github
+#### Sept 4 & 6: Hello World, Design Inspo presentations
 
-#### Sept 11 & 13: File paths/Directories, More Github/Github Pages, Intro to CSS
+#### Sept 11 & 13: Intro to HTML, Intro to UNIX/command line & Git/Github, File paths/Directories, Github/Github Pages, Intro to CSS
 
-#### Sept 18 & 20: More CSS, Wireframing, Layout, Image Format, Google Fonts, Design Inspo
+#### Sept 18 & 20: More CSS, Wireframing, Layout, Image Format, Google Fonts
 
 #### Sept 25 & 27: CSS Transform/Transition/Animate, Media Queries and Responsive Design, Project Moodboards
 

@@ -1,0 +1,21 @@
+/*This is a comment in CSS*/
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: aqua
+    
+}
+
+/*This is how CSS styles an ID, with the # symbol*/
+
+#cadet {
+    color: cadetblue
+    
+}
+
+/*This is how CSS styles a class, with a .*/
+
+.arial {
+    font-family: "Arial";
+}

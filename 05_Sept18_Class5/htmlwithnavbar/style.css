@@ -1,0 +1,21 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: aquamarine;
+}
+
+li a {
+    display: block;
+/*    width: 60px;*/
+    text-decoration: none;
+    color: #ff0066;
+    font-family: "Arial";
+    font-size: 25px;
+}
+
+li a:hover {
+    background-color: bisque;
+    color: white;
+}

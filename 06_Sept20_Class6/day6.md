@@ -23,7 +23,7 @@
 
 ### Homework
 
-* Push your Assignment #3 website to Github pages, and submit the link under Assignment #4 on NYU Classes.
+* Review Git/Github, and make sure you are clear on how to initialize, stage, commit, and push files to your Github repo. If anything here is confusing, this could make a GREAT learning log! If anything is still not working, then please reach out with specific questions ASAP.
 
 * Read [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
 

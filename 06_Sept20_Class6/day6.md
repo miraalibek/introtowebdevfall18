@@ -25,6 +25,8 @@
 
 * Push your Assignment #3 website to Github pages, and submit the link under Assignment #4 on NYU Classes.
 
+* Read [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
+
 * Complete a Learning Log if you haven't already! Suggestions for this week:
     
     * CSS div/span, class/id

@@ -22,7 +22,7 @@ Post to Slack in the logs channel for this course. Begin message with "#LL: desc
 
 Learning Logs Presentaton schedule:
 
-Sept 25: Shirley, Fiorabella
+Sept 25: Shirley, Jessica 
 
 Sept 27: Leah
 
@@ -30,7 +30,7 @@ Oct 2: Alvand, Allen
 
 Oct 4: Joseph
 
-Oct 11: Aryan, Jessica 
+Oct 11: Aryan, Fiorabella
 
 Oct 16: Johnathan
 

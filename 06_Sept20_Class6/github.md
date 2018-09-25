@@ -19,7 +19,7 @@ The first time you are pushing to a repository:
 
    * vim escape command is :q!
 
-4. git remote add origin <origin url from github>
+4. git remote add origin < origin url from github >
   
 5. git push -u origin master
 

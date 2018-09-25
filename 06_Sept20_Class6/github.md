@@ -13,7 +13,7 @@ The first time you are pushing to a repository:
 
   * git add . *adds the entire contents of the repository*
   
-  * git add <file or folder name> *just adds what you have indicated*
+  * git add < file or folder name > *just adds what you have indicated*
   
 3. git commit -m "commit message" *must include a commit message or you might end up in vim*
 

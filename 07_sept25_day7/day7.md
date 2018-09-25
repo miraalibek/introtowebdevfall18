@@ -8,6 +8,10 @@
 
 * In-Class Github exercise + gallery walk
 
+FYI: 
+
+* [HTML Shell](http://htmlshell.com/), HTML Skeleton (Brackets), HTML Boilerplate (Sublime), [Atom-html-template](https://atom.io/packages/atom-html-templates)
+
 
 ### Homework
 

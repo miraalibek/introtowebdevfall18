@@ -1,6 +1,6 @@
 ## Day 7
 
-* Learning Logs Presentations: Shirley, Fiorabella
+* Learning Logs Presentations: Shirley, Jessica
 
 * Review of [basic push to Github](https://github.com/IDMNYU/introtowebdevfall18/blob/master/06_Sept20_Class6/github.md)
 

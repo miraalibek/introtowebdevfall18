@@ -17,6 +17,8 @@ The first time you are pushing to a repository:
   
 3. git commit -m "commit message" *must include a commit message or you might end up in vim*
 
+   * vim escape command is :q!
+
 4. git remote add origin <origin url from github>
   
 5. git push -u origin master

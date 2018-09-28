@@ -8,15 +8,15 @@
 
 #### Sept 18 & 20: More CSS, Wireframing, Layout, Image Format, Google Fonts
 
-#### Sept 25 & 27: CSS Transform/Transition/Animate, Media Queries and Responsive Design, Project Moodboards
+#### Sept 25 & 27: 
 
-#### Oct 2 & 4: Midterm Project Proposals, Oct 4 special session on accessibility with Claire Kearney-Volpe
+#### Oct 2 & 4: More on Flexbox! CSS Transform/Transition/Animate, Layout/Wireframing, Project Moodboards, Oct 4 special session on accessibility with Claire Kearney-Volpe
 
 #### NO CLASS OCT 9
 
-#### Oct 11: Flexbox, CSS Grid, Bootstrap
+#### Oct 11: Midterm project proposals
 
-#### Oct 16 & 18: Midterm Project Presentations
+#### Oct 16 & 18: Media Queries and Responsive Design, Midterm Project Presentations
 
 #### Oct 23 & 25: Javascript variables, arrays, functions, conditionals
 

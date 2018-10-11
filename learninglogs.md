@@ -28,19 +28,19 @@ Sept 27: Leah
 
 Oct 2: Alvand, Allen
 
-Oct 4: Joseph
+Oct 4: No presentations
 
 Oct 11: Aryan, Fiorabella
 
 Oct 16: Johnathan
 
-Oct 18: Sam
+Oct 18: No Presentations
 
-Oct 23: Sasha
+Oct 23: Sasha, Joseph
 
 Oct 25: Brien
 
-Oct 30: Wilfredo
+Oct 30: Wilfredo, Sam
 
 Nov 1: Shehara
 

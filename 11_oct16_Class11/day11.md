@@ -2,7 +2,7 @@
 
 * Remaining midterm idea presentations:
 
-    1. Johnathan + Learning Log
+    1. Sam
 
     2. Leah
 
@@ -12,7 +12,7 @@
 
     5. Shirley
 
-    6. Sam
+    6. Johnathan + Learning Log
 
 * Flexbox challenge!
 

@@ -39,3 +39,5 @@
 
 * Complete and submit your [midterm assessment](https://github.com/IDMNYU/introtowebdevfall18/blob/master/midtermassessment.md)
 
+* Find a website that has a different mobile experience than desktop experience.
+

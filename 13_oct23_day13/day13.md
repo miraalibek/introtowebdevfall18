@@ -30,7 +30,6 @@
 
 [Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 
-[Grid Garden](https://cssgridgarden.com/)
 
 
 ### Homework

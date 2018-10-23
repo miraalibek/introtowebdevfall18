@@ -1,26 +1,3 @@
-## Day 13
-
-Midterm Presentations:
-
-* Joanna
-
-* Hung
-
-* Maya
-
-Learning Logs:
-
-* Leo, Rudhi
-
-Intro to Express!
-
-Express Resources:
-
-* [Guide to routing](https://expressjs.com/en/guide/routing.html)
-
-* [nodemon](https://www.npmjs.com/package/nodemon)
-
-### Homework
 
 *Midterm self-assessment:*
 Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, reflect, adjust, and do it all over again. Learning happens in a cycle.

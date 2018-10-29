@@ -38,16 +38,16 @@ Oct 18: No Presentations
 
 Oct 23: Sasha, Joseph
 
-Oct 25: Brien
+Oct 30: Brien
 
-Oct 30: Wilfredo, Sam
+Nov 1: Wilfredo, Sam
 
-Nov 1: Shehara
+Nov 6: Shehara
 
-Nov 6: Tracy
+Nov 8: Tracy
 
-Nov 8: Shahriar
+Nov 13: Shahriar
 
-Nov 13: Luke
+Nov 15: Luke
 
-Nov 15: Sophie
+Nov 20: Sophie

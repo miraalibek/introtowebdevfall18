@@ -31,9 +31,12 @@
 [Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 
 
+
 ### Homework
 
 * Take one page of your midterm assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Publish this on Github Pages, and submit the link to your updated page on NYU Classes.
 
 * Complete and submit your [midterm assessment](https://github.com/IDMNYU/introtowebdevfall18/blob/master/midtermassessment.md)
+
+* Find a website that has a different mobile experience than desktop experience.
 

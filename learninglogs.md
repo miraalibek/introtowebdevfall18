@@ -36,7 +36,7 @@ Oct 16: Johnathan
 
 Oct 18: No Presentations
 
-Oct 23: Sasha, Joseph
+Oct 23: Joseph
 
 Oct 30: Brien
 

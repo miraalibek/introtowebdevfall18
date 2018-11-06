@@ -77,4 +77,4 @@ Here is a list of required elements to include:
     
     * Add this project folder to the main repository connected to Github pages, and push your code so that it is live at username.github.io/bootstrap
     
-    * Submit the link to your source code on Github and your link to Github pages on NYU Classes under
+    * Submit the link to your source code on Github and your link to Github pages on NYU Classes under Assignment #7.

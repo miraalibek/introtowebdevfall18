@@ -2,8 +2,6 @@
 
 * Learning Log: Tracy
 
-* Iteration with for loops
-
 * Intro to DOM Manipulation
 
     * Using the alert function

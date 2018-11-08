@@ -82,3 +82,5 @@ Add a script tag, and add your calculator functions.
 
 For each operation, create an event listener for the button, and when it's clicked, find the value of the appropriate input and show the result of the calculation in the solution div.
 
+Push your assignment to Github, and connect it to Github Pages. Submit both the link to your live page and your source code on NYU Classes under Assignment #8.
+

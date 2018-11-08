@@ -16,7 +16,6 @@
     
 * Mad Libs
 
-<<<<<<< HEAD
 
 ### Homework: 
 
@@ -82,6 +81,4 @@ Start with this webpage, which has inputs and buttons for things to calculate:
 Add a script tag, and add your calculator functions.
 
 For each operation, create an event listener for the button, and when it's clicked, find the value of the appropriate input and show the result of the calculation in the solution div.
-=======
-* Calculator
->>>>>>> 9e3be868740ff637b49681e6473140e73da696b2
+

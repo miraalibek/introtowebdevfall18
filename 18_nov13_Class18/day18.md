@@ -23,4 +23,4 @@ If you have additional IDs on the page, you may include additional click events.
 
 Submission: 
 
-Push your project folder to Github Pages, and submit the links to your source code and live code via NYU Classes under Assignment # 
+Push your project folder to Github Pages, and submit the links to your source code and live code via NYU Classes under Assignment #9.

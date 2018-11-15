@@ -16,9 +16,12 @@ Build three buttons that will run a function on click.
 
 Now, create at least three functions that will return the following with an alert on click:
 
-How many of the same HTML elements are on the page. (For example, if you included 10 < p > tags, it should return a statement that says something about there being 10 < p > tags.)
-How many elements are inside of your first ID
-How many elements are inside of your second ID
+1. How many of the same HTML elements are on the page. (For example, if you included 10 < p > tags, it should return a statement that says something like, "There are 10 paragraph tags on this page.")
+
+2. How many elements are inside of your first ID
+
+3. How many elements are inside of your second ID
+
 If you have additional IDs on the page, you may include additional click events.
 
 Submission: 

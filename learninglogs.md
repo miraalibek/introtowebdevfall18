@@ -46,8 +46,8 @@ Nov 6: Shehara
 
 Nov 8: Tracy
 
-Nov 13: Shahriar
+Nov 13: Shahriar--postponed
 
 Nov 15: Luke
 
-Nov 20: Sophie
+Nov 20: Sophie & Shariar

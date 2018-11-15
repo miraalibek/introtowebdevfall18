@@ -1,6 +1,6 @@
 ## Day 19
 
-* Learning Logs: Shahriar and Luke
+* Learning Logs: Luke
 
 * Questions about DOM Manipulation Homework?
 

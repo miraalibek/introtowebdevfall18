@@ -19,7 +19,7 @@ Your project will be considered complete if you have completed the following:
     3) A moodboard
     4) A website with at least 3 content areas, which could be represented as 3 pages or 3 sections on a one-page website.
     
-Final Project Grading Criteria:
+## Final Project Grading Criteria:
 
 * Student has cohesively prepared a design aesthetic that was pre-planned with a wireframe, moodboard and sitemap.
 
@@ -27,4 +27,48 @@ Final Project Grading Criteria:
 
 * All code is properly formatted, linked properly, and works toward your intention.
 
-* Website has been presented in a formal presentation that shows design process, website and code. (7 minutes will be allowed for presentation with 5 minutes for clarifying questions and feedback.)
+* Website has been presented in a formal presentation that shows design process, website and code. (6 minutes will be allowed for presentation with 4 minutes for clarifying questions and feedback.)
+
+* NOTE: Projects must be pushed to Github/Github Pages. They must be submitted via NYU Classes by December 11, regardless of the day you are scheduled to present. There will be no extensions on final projects.
+
+## Final Project Presentation Schedule
+
+#### December 11:
+
+1) Johnathan
+
+2) Shirley
+
+3) Sasha
+
+4) Wilfredo
+
+5) Aryan
+
+6) Joseph
+
+7) Sophie
+
+8) Tracy
+
+9) Shahriar
+
+#### December 13:
+
+1) Brien
+
+2) Jessica
+
+3) Fiorabella
+
+4) Alvand
+
+5) Sam
+
+6) Leah
+
+7) Allen
+
+8) Shehara
+
+9) Luke

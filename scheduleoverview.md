@@ -20,9 +20,9 @@
 
 #### Oct 23 & 25: Javascript variables, arrays, functions, conditionals
 
-#### Oct 30 & Nov 1: JS math, events, loops, DOM manipulation
+#### Oct 30 & Nov 1: JS math, events, loops, 
 
-#### Nov 6 & 8: JS Objects
+#### Nov 6 & 8: DOM manipulation
 
 #### Nov 13 & 15: JS Libraries, Jquery
 
@@ -30,7 +30,7 @@
 
 #### NO CLASS NOV 22
 
-#### Nov 27 & 29: Final Project Proposals, student request topics 
+#### Nov 27 & 29: JS Objects, Website hosting, guest lecture from Calli Higgins 
 
 #### Dec 4 & 6: Final Project Workshop
 

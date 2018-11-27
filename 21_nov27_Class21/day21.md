@@ -8,7 +8,7 @@
 
 * Final Projects and self-assessment are open
 
-* FOOD REQUESTS for final project workshop
+* FOOD REQUESTS for final project workshop (use #food in Slack)
 
 * For loops: Multiplication Table, The Grade Assigner, The Word Guesser 
 

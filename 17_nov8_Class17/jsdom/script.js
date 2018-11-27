@@ -11,12 +11,15 @@ document.getElementById('main-section').innerHTML = '<h3>Hello World Smaller</h3
 var paragraphs = document.getElementsByTagName('p')
 console.log(paragraphs[0].innerText)
 
+
+
 var titleText = document.getElementById('title')
 
 //addEventListener is a function that takes two parameters: the event that we're listening for and the function that will be run once that event is performed
 
 //alert pops up a modal box with text and an OK button
 
+//skip for now because involves a callback function
 titleText.addEventListener('click', function(){
     alert('you clicked me!')   
 })

@@ -18,3 +18,5 @@
 ### Homework
 
 * Count your Learning Logs! You only have a couple of weeks to get all 10 completed. 
+
+* Inspiration for final projects: [Why Do All Websites Look the Same?](https://medium.com/s/story/on-the-visual-weariness-of-the-web-8af1c969ce73)
